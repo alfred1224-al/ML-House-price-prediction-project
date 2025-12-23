@@ -53,7 +53,7 @@ Based on the analysis, the following areas have been identified for future enhan
 ## How to Run
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/California-House-Prediction.git](https://github.com/your-username/California-House-Prediction.git)
+    git clone [https://github.com/alfred1224-al/ML-House-price-prediction-project.git]
     cd California-House-Prediction
     ```
 
